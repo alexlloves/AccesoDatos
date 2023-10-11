@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<guarderia>
+    <niños>
+        <niño>Alex
+            <nota>7</nota>
+            <altura>1.7</altura>
+        </niño>
+        <niño>David
+            <nota>8</nota>
+            <altura>1.9</altura>
+        </niño>
+        <niño>Manuel
+            <nota>10</nota>
+            <altura>2.2</altura>
+        </niño>
+    </niños>
+</guarderia>

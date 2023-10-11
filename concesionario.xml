@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<concesionario>
+    <coches>
+        <coche>
+            <matricula>1111AAAA</matricula>
+            <marca>AUDI</marca>
+            <precio>50.000$</precio>
+        </coche>
+    </coches>
+</concesionario>
